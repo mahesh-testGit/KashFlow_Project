@@ -10,7 +10,9 @@ import org.junit.runner.RunWith;
                 "pretty",
                 "html:target/cucumber-html-report",
                 "json:target/cucumber.json",
-                "junit:target/cucumber-reports/Cucumber.xml"
+                "junit:target/cucumber-reports/Cucumber.xml",
+                "junit:target/cucumber-reports/JUnitReport.xml"
+
         },
         features = "src/test/resources/kashflow.test.features/VinaykBank.feature",
         glue = "come.stepDefinations"
