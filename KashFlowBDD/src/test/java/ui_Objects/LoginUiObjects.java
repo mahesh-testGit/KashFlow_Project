@@ -25,8 +25,6 @@ public class LoginUiObjects extends BaseClass {
        btnLogin=driver.findElement(By.xpath("//button[@type='submit']"));
    }
 
-
-
     //Step Implementation
 
   public void setCred()
