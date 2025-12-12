@@ -17,7 +17,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/kashflow.test.features/VinaykBank.feature",
         glue = "come.stepDefinations"
 )
-public class Runner {
+public class RunnerTest {
 }
 
 
