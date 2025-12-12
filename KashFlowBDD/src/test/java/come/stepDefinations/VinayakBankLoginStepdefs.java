@@ -42,7 +42,6 @@ public class VinayakBankLoginStepdefs {
     }
     @Then("I verify vinayak bank home page is loaded")
     public void i_verify_vinayak_bank_home_page_is_loaded() {
-
     }
 
 }
