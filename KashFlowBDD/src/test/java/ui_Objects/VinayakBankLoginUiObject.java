@@ -31,6 +31,7 @@ public class VinayakBankLoginUiObject {
         password1.sendKeys("Admin@123");
     }
 
+
     public void clickOnLoginVinaykBank(){
         btnLogin1.click();
     }
