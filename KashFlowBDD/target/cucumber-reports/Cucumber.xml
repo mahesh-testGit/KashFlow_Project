@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="21.623" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-12-12T07:53:43.261063900Z">
+<testcase classname="Test Vinayak Bank Login functionality" name="Verify Vinayak bank login with valid user details" time="21.433">
+<system-out><![CDATA[
+Given I lunch the vinayak bank application..................................passed
+When I enter username and password on the vinayak bank application..........passed
+And I click on login button on the vinayak bank application.................passed
+Then I verify vinayak bank home page is loaded..............................passed
+]]></system-out>
+</testcase>
+</testsuite>
